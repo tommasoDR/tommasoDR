@@ -25,7 +25,7 @@ University of Pisa
 
 ### Contact
 - Institutional email: <a href= "mailto:t.diriccio@studenti.unipi.it" target="_blank">t.diriccio@studenti.unipi.it</a>
-- Private email: <a href= "mailto:tommaso.diriccio@hotmail.it" target="_blank">tommaso.diriccio@hotmail.it</a>
+- Private email: <a href= "mailto:tommaso.diriccio@gmail.com" target="_blank">tommaso.diriccio@gmail.com</a>
 - Linkedin: <a href='https://www.linkedin.com/in/tommaso-di-riccio-407a50332/' target="_blank">Tommaso Di Riccio</a>
 
 ### Interests
